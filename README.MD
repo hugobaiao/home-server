@@ -10,6 +10,7 @@
 - Radarr  
 - Prowlarr  
 - Portainer  
+- Minecraft Server
 
 ## Usage Notes
 - It’s recommended to use private trackers with Prowlarr, but free trackers should work fine as well!  
@@ -19,9 +20,8 @@
 ## Current Status
 This server is a work in progress and currently acts as a replacement for my host machine. I’m experimenting with running everything inside a VM.
 
-## Planned Features
-- Minecraft server  
-- Prometheus monitoring  
+## Planned Features 
+- Prometheus monitoring (installed, still in need of tinkering)  
 - Server home page (probably using Homer)  
 
 ---
